@@ -1,0 +1,14 @@
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\bin\Debug\net10.0\remed uts pbo.exe
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\bin\Debug\net10.0\remed uts pbo.deps.json
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\bin\Debug\net10.0\remed uts pbo.runtimeconfig.json
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\bin\Debug\net10.0\remed uts pbo.dll
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\bin\Debug\net10.0\remed uts pbo.pdb
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\obj\Debug\net10.0\remed uts pbo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\obj\Debug\net10.0\remed uts pbo.AssemblyInfoInputs.cache
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\obj\Debug\net10.0\remed uts pbo.AssemblyInfo.cs
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\obj\Debug\net10.0\remed uts pbo.csproj.CoreCompileInputs.cache
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\obj\Debug\net10.0\remed uts pbo.dll
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\obj\Debug\net10.0\refint\remed uts pbo.dll
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\obj\Debug\net10.0\remed uts pbo.pdb
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\obj\Debug\net10.0\remed uts pbo.genruntimeconfig.cache
+C:\Users\Msi-pc\visual studio\remed uts pbo\remed uts pbo\obj\Debug\net10.0\ref\remed uts pbo.dll
